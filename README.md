@@ -1,4 +1,5 @@
-#Battle of Neighborhoods 
+# Battle of Neighborhoods 
+
 Welcome to my repository where I focused on using data science principles to explore neighborhood data in any particular area and then compared the pros and cons of various neighborhoods in terms of opening a business, relocating for temporary or permanent purpose or anything else. With this you would be able to easily figure out how to segment neighborhoods and filter out the one which is of your keen interest.
 Coursera_Capstone
 As first part of this project I have explored, segmented and clustered neighborhoods in Toronto, Canada. I have made use of unsupervised learning methods such as K means clustering to groupthe data which I acquired by web scrapping and then parsing the HTML code to the pandas dataframe.
